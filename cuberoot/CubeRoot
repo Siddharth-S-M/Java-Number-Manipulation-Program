@@ -1,0 +1,5 @@
+ write a Java program to calculate and print the cube root of a given integer number.
+
+Your program should prompt the user to enter an integer number, calculate its cube root, and then display the result.
+
+Note: The input number will be an integer, and the output will be the cube root of that number as a floating-point value. The Java standard library provides the Math.cbrt() method to calculate the cube root of a number. Your program should handle any valid integer input and correctly calculate and print the cube root.
