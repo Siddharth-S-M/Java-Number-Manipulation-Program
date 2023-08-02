@@ -1,0 +1,7 @@
+write a Java program to find and print all the Armstrong numbers within a given range [start, end]. An Armstrong number (also known as a narcissistic number or pluperfect digital invariant) is a number that is equal to the sum of its own digits each raised to the power of the number of digits in the number.
+
+Your program should take two positive integers 'start' and 'end' as input from the user, representing the range of numbers to check. It should then find all the Armstrong numbers within this range (inclusive) and print them on separate lines.
+
+For example:
+
+If the user enters start = 100 and end = 1000, your program should find and print all the Armstrong numbers between 100 and 1000.
