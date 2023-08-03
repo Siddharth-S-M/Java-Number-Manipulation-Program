@@ -1,0 +1,7 @@
+You are required to write a Java program to find and print the largest digit of a given positive integer 'n'. .
+
+Your program should prompt the user to enter a positive integer 'n', read the input using the Scanner class, 
+
+For example:
+
+If the user enters the number 32765, your program should calculate and print the largest digit as 7.

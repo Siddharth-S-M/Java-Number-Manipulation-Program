@@ -1,0 +1,9 @@
+You are required to write a Java program to check whether a given positive integer 'n' is a palindrome or not.
+ A palindrome number is one that remains the same when its digits are reversed.
+
+Your program should prompt the user to enter a positive integer 'n', read the input using the Scanner class, and then check and display whether the given number is a palindrome or not.
+
+For example:
+
+If the user enters the number 121, your program should print "Palindrome number" because 121 is a palindrome.
+If the user enters the number 12345, your program should print "Not a palindrome" as it is not the same when its digits are reversed.
