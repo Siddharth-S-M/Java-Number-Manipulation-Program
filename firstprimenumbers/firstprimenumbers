@@ -1,0 +1,8 @@
+You are required to write a Java program to find and print all the prime numbers up to a given positive integer 'n'. 
+A prime number is a natural number greater than 1 that is only divisible by 1 and itself.
+
+Your program should prompt the user to enter a positive integer 'n', read the input using the Scanner class, and then calculate and display all the prime numbers up to 'n'.
+
+For example:
+
+If the user enters 'n' as 20, your program should find and print all the prime numbers up to 20.

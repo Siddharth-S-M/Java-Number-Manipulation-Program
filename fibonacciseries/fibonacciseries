@@ -1,0 +1,8 @@
+You are required to write a Java program to calculate and print the Fibonacci series up to a given positive integer 'n'. 
+The Fibonacci series is a sequence of numbers where each number is the sum of the two preceding ones, usually starting with 0 and 1.
+
+Your program should prompt the user to enter a positive integer 'n', read the input using the Scanner class, and then calculate and display the Fibonacci series up to 'n'.
+
+For example:
+
+If the user enters 'n' as 10, your program should calculate and print the Fibonacci series up to 10.

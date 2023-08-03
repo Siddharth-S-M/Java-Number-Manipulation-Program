@@ -1,0 +1,8 @@
+You are required to write a Java program to find and print the Greatest Common Divisor (GCD) of two given positive integers n1 and n2. 
+The GCD is the largest positive integer that divides both n1 and n2 without leaving a remainder.
+
+Your program should take two positive integers n1 and n2 as input and then calculate and display the GCD of the two numbers using the Euclidean algorithm.
+
+For example:
+
+If the user enters n1 as 36 and n2 as 48, your program should calculate and print the GCD as 12.
