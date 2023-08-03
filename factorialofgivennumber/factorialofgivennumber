@@ -1,0 +1,8 @@
+You are required to write a Java program to calculate and print the factorial of a given positive integer 'n'. 
+The factorial of a number 'n' is the product of all positive integers from 1 to 'n'.
+
+Your program should prompt the user to enter a positive integer 'n', read the input using the Scanner class, and then calculate and display the factorial of 'n'.
+
+For example:
+
+If the user enters 'n' as 5, your program should calculate and print the factorial as "1 x 2 x 3 x 4 x 5 = 120".

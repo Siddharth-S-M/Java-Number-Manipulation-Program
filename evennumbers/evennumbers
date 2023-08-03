@@ -1,0 +1,6 @@
+You are required to write a Java program to find and print all the even numbers from 1 up to a given positive integer 'n'. 
+The program should allow the user to input the value of 'n' and then display all the even numbers between 1 and 'n' (inclusive).
+
+For example:
+
+If the user enters 'n' as 10, your program should find and print all the even numbers from 1 to 10.
