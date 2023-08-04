@@ -1,0 +1,7 @@
+You are required to write a Java program to calculate the power of a given number 'n' raised to the exponent 'pow'.
+
+Your program should prompt the user to enter a number 'n' and its corresponding exponent 'pow', read the input using the Scanner class, and then calculate and display the result of 'n' raised to the power 'pow'.
+
+For example:
+
+If the user enters the number 2 and the exponent 3, your program should calculate and print "2^3 : 8" as 2 raised to the power of 3 is 8.

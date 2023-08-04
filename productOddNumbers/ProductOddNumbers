@@ -1,0 +1,7 @@
+You are required to write a Java program to calculate the product of all odd numbers from 1 to a given positive integer 'n'.
+
+Your program should prompt the user to enter a positive integer 'n', read the input using the Scanner class, and then calculate and display the product of all odd numbers from 1 to 'n'.
+
+For example:
+
+If the user enters the number 7, your program should calculate and print the product of all odd numbers from 1 to 7, which is 105 (1 * 3 * 5 * 7).

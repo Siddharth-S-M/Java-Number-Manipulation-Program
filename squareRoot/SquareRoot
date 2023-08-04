@@ -1,0 +1,7 @@
+You are required to write a Java program that calculates and prints the square root of a given positive number 'n'.
+
+Your program should prompt the user to enter a positive number 'n', read the input using the Scanner class, and then calculate and display the square root of 'n'.
+
+For example:
+
+If the user enters the number 25, your program should calculate and print "Square Root Of a Number 25 is: 5.0" as the square root of 25 is 5.0.
