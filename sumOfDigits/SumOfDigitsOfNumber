@@ -1,0 +1,7 @@
+You are required to write a Java program to calculate the sum of the digits of a given positive number 'n'.
+
+Your program should prompt the user to enter a positive number 'n', read the input using the Scanner class, and then calculate and display the sum of its digits.
+
+For example:
+
+If the user enters the number 123, your program should calculate and print "Sum Of Digits Of a Number 123 is: 1 2 3" and the sum of digits as 6 (1 + 2 + 3).
