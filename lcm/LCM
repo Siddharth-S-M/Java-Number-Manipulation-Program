@@ -1,0 +1,5 @@
+You are required to write a Java program that calculates and prints the least common multiple (LCM) of two positive integers 'x' and 'y'.
+
+For example:
+
+If the user enters 'x' as 12 and 'y' as 18, your program should calculate and print "LCM of 12 and 18 is 36" as the LCM of 12 and 18 is 36.
