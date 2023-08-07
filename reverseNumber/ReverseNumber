@@ -1,0 +1,7 @@
+You are required to write a Java program to calculate and print the reverse of a given positive integer 'n'.
+
+Your program should prompt the user to enter a positive integer 'n', read the input using the Scanner class, and then calculate and display the reverse of the number.
+
+For example:
+
+If the user enters the number 12345, your program should calculate and print "Reverse Number is: 54321" as the reverse of 12345 is 54321.
