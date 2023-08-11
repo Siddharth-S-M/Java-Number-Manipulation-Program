@@ -1,0 +1,6 @@
+Write a Java program that takes a binary number as input from the user and converts it to its decimal equivalent.
+
+For Example:
+
+Enter a binary number: 101010
+Decimal equivalent: 42

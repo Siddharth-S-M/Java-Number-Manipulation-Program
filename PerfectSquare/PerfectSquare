@@ -1,0 +1,5 @@
+You are required to write a Java program that determines whether a given positive integer 'n' is a perfect square or not.
+
+For example:
+
+If the user enters 'n' as 49, your program should calculate the square root of 49, which is 7. The square of 7 is indeed 49, so your program should print "It is a perfect square."
